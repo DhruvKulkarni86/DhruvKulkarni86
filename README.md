@@ -49,4 +49,4 @@ Full Stack Developer
 
 [![Dhruv Kulkarni StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16339491&layout=compact&theme=dark)](https://stackoverflow.com/users/16339491/doomguy096)
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
