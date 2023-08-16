@@ -4,6 +4,8 @@ Hi 👋 My name is Dhruv Kulkarni
 Full Stack Web Developer
 ------------------------
 
+[Portfolio](https://dhruvkulkarni.vercel.app/)
+
 ### Languages and Skills
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -36,9 +38,6 @@ Full Stack Web Developer
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-### My GitHub Stats
-
-<a href="http://www.github.com/dhruvkulkarni86"><img src="https://github-readme-stats.vercel.app/api?username=dhruvkulkarni86&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dhruvkulkarni86's GitHub stats" /></a>
 
 ### StackOverflow
 [![Dhruv Kulkarni StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16339491&layout=compact&theme=dark)](https://stackoverflow.com/users/16339491/doomguy096)
