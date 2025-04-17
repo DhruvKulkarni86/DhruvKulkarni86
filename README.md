@@ -39,4 +39,4 @@ Full Stack Web Developer
 ### StackOverflow
 [![Dhruv Kulkarni StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16339491&layout=compact&theme=dark)](https://stackoverflow.com/users/16339491/doomguy096)
 
-
+![Profile views counter](https://komarev.com/ghpvc/?username=DhruvKulkarni86&&style=flat-square)  
